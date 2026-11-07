@@ -1,0 +1,8 @@
+# Python 自动生成的缓存
+__pycache__/
+*.pyc
+
+# 编辑器 / Trae 临时数据
+.screenshots/
+.trae-html-share-packages/
+.vscode/
