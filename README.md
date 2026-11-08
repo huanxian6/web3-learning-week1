@@ -17,7 +17,7 @@
 | `区块链核心术语.py` | 20 个区块链核心术语整理 |
 | `web3_ecosystem_notes_template.md` | Web3 生态全景浏览笔记模板 |
 | `learning_toolkit.md` | 学习工具与网课清单 |
-| `python.py` / `test.py` / `is_at_school=true.py` / `num % 2 == 0.py` | 入门阶段的小练习 |
+| `python.py` / `test.py` / `variables_demo.py` / `for_loop_demo.py` | 入门阶段的小练习（变量、类型、for 循环） |
 
 ## 四周计划进度
 
